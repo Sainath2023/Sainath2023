@@ -1,3 +1,4 @@
+![logo](https://github.com/Sainath2023/Sainath2023/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sainath Ankali</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
